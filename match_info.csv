@@ -1,0 +1,260 @@
+match_id,date,venue,city,country,competition,match_type,balls_per_over,team1,team2,toss_winner,toss_decision,winner,win_type,win_margin,player_of_match
+20100509_KensingtonOvalBridgetown_WestIndies_vs_India,2010-05-09,"Kensington Oval, Bridgetown",Barbados,West Indies,,T20,6,West Indies,India,India,field,West Indies,runs,14,CH Gayle
+20090612_Lords_Pakistan_vs_SriLanka,2009-06-12,Lord's,London,England,,T20,6,Pakistan,Sri Lanka,Sri Lanka,bat,Sri Lanka,runs,19,TM Dilshan
+20120919_RPremadasaStadium_Australia_vs_Ireland,2012-09-19,R Premadasa Stadium,Colombo,Sri Lanka,,T20,6,Australia,Ireland,Ireland,bat,Australia,wickets,7,SR Watson
+20090610_TrentBridge_SriLanka_vs_WestIndies,2009-06-10,Trent Bridge,Nottingham,England,,T20,6,Sri Lanka,West Indies,West Indies,field,Sri Lanka,runs,15,ST Jayasuriya
+20240605_ProvidenceStadiumGuyana_PapuaNewGuinea_vs_Uganda,2024-06-05,"Providence Stadium, Guyana",Providence,Guyana,,T20,6,Papua New Guinea,Uganda,Uganda,field,Uganda,wickets,3,Riazat Ali Shah
+20240609_SirVivianRichardsStadiumNorthSoundAntigua_Oman_vs_Scotland,2024-06-09,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,West Indies,,T20,6,Oman,Scotland,Oman,bat,Scotland,wickets,7,BJ McMullen
+20240609_NassauCountyInternationalCricketStadiumNewYork_India_vs_Pakistan,2024-06-09,"Nassau County International Cricket Stadium, New York",New York,USA,,T20,6,India,Pakistan,Pakistan,field,India,runs,6,JJ Bumrah
+20240608_ProvidenceStadiumGuyana_WestIndies_vs_Uganda,2024-06-08,"Providence Stadium, Guyana",Providence,Guyana,,T20,6,West Indies,Uganda,West Indies,bat,West Indies,runs,134,AJ Hosein
+20240601_GrandPrairieStadiumDallas_Canada_vs_UnitedStatesofAmerica,2024-06-01,"Grand Prairie Stadium, Dallas",Dallas,USA,,T20,6,Canada,United States of America,United States of America,field,United States of America,wickets,7,Aaron Jones
+20240608_KensingtonOvalBridgetownBarbados_Australia_vs_England,2024-06-08,"Kensington Oval, Bridgetown, Barbados",Bridgetown,West Indies,,T20,6,Australia,England,England,field,Australia,runs,36,A Zampa
+20240608_NassauCountyInternationalCricketStadiumNewYork_Netherlands_vs_SouthAfrica,2024-06-08,"Nassau County International Cricket Stadium, New York",New York,USA,,T20,6,Netherlands,South Africa,South Africa,field,South Africa,wickets,4,DA Miller
+20240602_ProvidenceStadiumGuyana_PapuaNewGuinea_vs_WestIndies,2024-06-02,"Providence Stadium, Guyana",Providence,Guyana,,T20,6,Papua New Guinea,West Indies,West Indies,field,West Indies,wickets,5,RL Chase
+20240605_KensingtonOvalBridgetownBarbados_Australia_vs_Oman,2024-06-05,"Kensington Oval, Bridgetown, Barbados",Bridgetown,West Indies,,T20,6,Australia,Oman,Oman,field,Australia,runs,39,MP Stoinis
+20240607_NassauCountyInternationalCricketStadiumNewYork_Canada_vs_Ireland,2024-06-07,"Nassau County International Cricket Stadium, New York",New York,USA,,T20,6,Canada,Ireland,Ireland,field,Canada,runs,12,NR Kirton
+20240603_NassauCountyInternationalCricketStadiumNewYork_SriLanka_vs_SouthAfrica,2024-06-03,"Nassau County International Cricket Stadium, New York",New York,USA,,T20,6,Sri Lanka,South Africa,Sri Lanka,bat,South Africa,wickets,6,A Nortje
+20240606_KensingtonOvalBridgetownBarbados_Namibia_vs_Scotland,2024-06-06,"Kensington Oval, Bridgetown, Barbados",Bridgetown,West Indies,,T20,6,Namibia,Scotland,Namibia,bat,Scotland,wickets,5,MA Leask
+20240605_NassauCountyInternationalCricketStadiumNewYork_Ireland_vs_India,2024-06-05,"Nassau County International Cricket Stadium, New York",New York,USA,,T20,6,Ireland,India,India,field,India,wickets,8,JJ Bumrah
+20240604_GrandPrairieStadiumDallas_Nepal_vs_Netherlands,2024-06-04,"Grand Prairie Stadium, Dallas",Dallas,USA,,T20,6,Nepal,Netherlands,Netherlands,field,Netherlands,wickets,6,TJG Pringle
+20240607_GrandPrairieStadiumDallas_SriLanka_vs_Bangladesh,2024-06-07,"Grand Prairie Stadium, Dallas",Dallas,USA,,T20,6,Sri Lanka,Bangladesh,Bangladesh,field,Bangladesh,wickets,2,Rishad Hossain
+20240617_BrianLaraStadiumTaroubaTrinidad_PapuaNewGuinea_vs_NewZealand,2024-06-17,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,West Indies,,T20,6,Papua New Guinea,New Zealand,New Zealand,field,New Zealand,wickets,7,LH Ferguson
+20240627_ProvidenceStadiumGuyana_India_vs_England,2024-06-27,"Providence Stadium, Guyana",Providence,Guyana,,T20,6,India,England,England,field,India,runs,68,AR Patel
+20240616_CentralBrowardRegionalParkStadiumTurfGroundLauderhill_Ireland_vs_Pakistan,2024-06-16,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill,USA,,T20,6,Ireland,Pakistan,Pakistan,field,Pakistan,wickets,3,Shaheen Shah Afridi
+20240622_SirVivianRichardsStadiumNorthSoundAntigua_India_vs_Bangladesh,2024-06-22,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,West Indies,,T20,6,India,Bangladesh,Bangladesh,field,India,runs,50,HH Pandya
+20240615_DarenSammyNationalCricketStadiumGrosIsletStLucia_Scotland_vs_Australia,2024-06-15,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,West Indies,,T20,6,Scotland,Australia,Australia,field,Australia,wickets,5,MP Stoinis
+20240621_DarenSammyNationalCricketStadiumGrosIsletStLucia_SouthAfrica_vs_England,2024-06-21,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,West Indies,,T20,6,South Africa,England,England,field,South Africa,runs,7,Q de Kock
+20240613_ArnosValeGroundKingstownStVincent_Bangladesh_vs_Netherlands,2024-06-13,"Arnos Vale Ground, Kingstown, St Vincent",Kingstown,West Indies,,T20,6,Bangladesh,Netherlands,Netherlands,field,Bangladesh,runs,25,Shakib Al Hasan
+20240611_NassauCountyInternationalCricketStadiumNewYork_Canada_vs_Pakistan,2024-06-11,"Nassau County International Cricket Stadium, New York",New York,USA,,T20,6,Canada,Pakistan,Pakistan,field,Pakistan,wickets,7,Mohammad Amir
+20240616_DarenSammyNationalCricketStadiumGrosIsletStLucia_SriLanka_vs_Netherlands,2024-06-16,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,West Indies,,T20,6,Sri Lanka,Netherlands,Netherlands,field,Sri Lanka,runs,83,KIC Asalanka
+20240621_KensingtonOvalBridgetownBarbados_UnitedStatesofAmerica_vs_WestIndies,2024-06-21,"Kensington Oval, Bridgetown, Barbados",Bridgetown,West Indies,,T20,6,United States of America,West Indies,West Indies,field,West Indies,wickets,9,RL Chase
+20240612_NassauCountyInternationalCricketStadiumNewYork_UnitedStatesofAmerica_vs_India,2024-06-12,"Nassau County International Cricket Stadium, New York",New York,USA,,T20,6,United States of America,India,India,field,India,wickets,7,Arshdeep Singh
+20240619_DarenSammyNationalCricketStadiumGrosIsletStLucia_WestIndies_vs_England,2024-06-19,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,West Indies,,T20,6,West Indies,England,England,field,England,wickets,8,PD Salt
+20240624_DarenSammyNationalCricketStadiumGrosIsletStLucia_India_vs_Australia,2024-06-24,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,West Indies,,T20,6,India,Australia,Australia,field,India,runs,24,RG Sharma
+20240610_NassauCountyInternationalCricketStadiumNewYork_SouthAfrica_vs_Bangladesh,2024-06-10,"Nassau County International Cricket Stadium, New York",New York,USA,,T20,6,South Africa,Bangladesh,South Africa,bat,South Africa,runs,4,H Klaasen
+20240614_ArnosValeGroundKingstownStVincent_SouthAfrica_vs_Nepal,2024-06-14,"Arnos Vale Ground, Kingstown, St Vincent",Kingstown,West Indies,,T20,6,South Africa,Nepal,Nepal,field,South Africa,runs,1,T Shamsi
+20240611_SirVivianRichardsStadiumNorthSoundAntigua_Namibia_vs_Australia,2024-06-11,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,West Indies,,T20,6,Namibia,Australia,Australia,field,Australia,wickets,9,A Zampa
+20240612_BrianLaraStadiumTaroubaTrinidad_WestIndies_vs_NewZealand,2024-06-12,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,West Indies,,T20,6,West Indies,New Zealand,New Zealand,field,West Indies,runs,13,SE Rutherford
+20240616_ArnosValeGroundKingstownStVincent_Bangladesh_vs_Nepal,2024-06-16,"Arnos Vale Ground, Kingstown, St Vincent",Kingstown,West Indies,,T20,6,Bangladesh,Nepal,Nepal,field,Bangladesh,runs,21,Tanzim Hasan Sakib
+20240623_KensingtonOvalBridgetownBarbados_UnitedStatesofAmerica_vs_England,2024-06-23,"Kensington Oval, Bridgetown, Barbados",Bridgetown,West Indies,,T20,6,United States of America,England,England,field,England,wickets,10,AU Rashid
+20240614_BrianLaraStadiumTaroubaTrinidad_Uganda_vs_NewZealand,2024-06-14,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,West Indies,,T20,6,Uganda,New Zealand,New Zealand,field,New Zealand,wickets,9,TG Southee
+20240619_SirVivianRichardsStadiumNorthSoundAntigua_SouthAfrica_vs_UnitedStatesofAmerica,2024-06-19,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,West Indies,,T20,6,South Africa,United States of America,United States of America,field,South Africa,runs,18,Q de Kock
+20240629_KensingtonOvalBridgetownBarbados_India_vs_SouthAfrica,2024-06-29,"Kensington Oval, Bridgetown, Barbados",Bridgetown,West Indies,,T20,6,India,South Africa,India,bat,India,runs,7,V Kohli
+20211017_AlAmeratCricketGroundOmanCricketMinistryTurf1_Scotland_vs_Bangladesh,2021-10-17,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,Oman,,T20,6,Scotland,Bangladesh,Bangladesh,field,Scotland,runs,6,CN Greaves
+20211114_DubaiInternationalCricketStadium_NewZealand_vs_Australia,2021-11-14,Dubai International Cricket Stadium,Dubai,UAE,,T20,6,New Zealand,Australia,Australia,field,Australia,wickets,8,MR Marsh
+20211103_DubaiInternationalCricketStadium_NewZealand_vs_Scotland,2021-11-03,Dubai International Cricket Stadium,Dubai,UAE,,T20,6,New Zealand,Scotland,Scotland,field,New Zealand,runs,16,MJ Guptill
+20211031_DubaiInternationalCricketStadium_India_vs_NewZealand,2021-10-31,Dubai International Cricket Stadium,Dubai,UAE,,T20,6,India,New Zealand,New Zealand,field,New Zealand,wickets,8,IS Sodhi
+20211108_DubaiInternationalCricketStadium_Namibia_vs_India,2021-11-08,Dubai International Cricket Stadium,Dubai,UAE,,T20,6,Namibia,India,India,field,India,wickets,9,RA Jadeja
+20211104_ZayedCricketStadiumAbuDhabi_SriLanka_vs_WestIndies,2021-11-04,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,UAE,,T20,6,Sri Lanka,West Indies,West Indies,field,Sri Lanka,runs,20,KIC Asalanka
+20211106_ZayedCricketStadiumAbuDhabi_WestIndies_vs_Australia,2021-11-06,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,UAE,,T20,6,West Indies,Australia,Australia,field,Australia,wickets,8,DA Warner
+20211110_ZayedCricketStadiumAbuDhabi_England_vs_NewZealand,2021-11-10,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,UAE,,T20,6,England,New Zealand,New Zealand,field,New Zealand,wickets,5,DJ Mitchell
+20211106_SharjahCricketStadium_SouthAfrica_vs_England,2021-11-06,Sharjah Cricket Stadium,Sharjah,UAE,,T20,6,South Africa,England,England,field,South Africa,runs,10,HE van der Dussen
+20211028_DubaiInternationalCricketStadium_SriLanka_vs_Australia,2021-10-28,Dubai International Cricket Stadium,Dubai,UAE,,T20,6,Sri Lanka,Australia,Australia,field,Australia,wickets,7,A Zampa
+20211111_DubaiInternationalCricketStadium_Pakistan_vs_Australia,2021-11-11,Dubai International Cricket Stadium,Dubai,UAE,,T20,6,Pakistan,Australia,Australia,field,Australia,wickets,5,MS Wade
+20211030_SharjahCricketStadium_SriLanka_vs_SouthAfrica,2021-10-30,Sharjah Cricket Stadium,Sharjah,UAE,,T20,6,Sri Lanka,South Africa,South Africa,field,South Africa,wickets,4,T Shamsi
+20211022_SharjahCricketStadium_Ireland_vs_Namibia,2021-10-22,Sharjah Cricket Stadium,Sharjah,UAE,,T20,6,Ireland,Namibia,Ireland,bat,Namibia,wickets,8,D Wiese
+20211026_SharjahCricketStadium_NewZealand_vs_Pakistan,2021-10-26,Sharjah Cricket Stadium,Sharjah,UAE,,T20,6,New Zealand,Pakistan,Pakistan,field,Pakistan,wickets,5,Haris Rauf
+20211019_AlAmeratCricketGroundOmanCricketMinistryTurf1_Scotland_vs_PapuaNewGuinea,2021-10-19,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,Oman,,T20,6,Scotland,Papua New Guinea,Scotland,bat,Scotland,runs,17,RD Berrington
+20211107_SharjahCricketStadium_Pakistan_vs_Scotland,2021-11-07,Sharjah Cricket Stadium,Sharjah,UAE,,T20,6,Pakistan,Scotland,Pakistan,bat,Pakistan,runs,72,Shoaib Malik
+20211105_SharjahCricketStadium_NewZealand_vs_Namibia,2021-11-05,Sharjah Cricket Stadium,Sharjah,UAE,,T20,6,New Zealand,Namibia,Namibia,field,New Zealand,runs,52,JDS Neesham
+20211102_ZayedCricketStadiumAbuDhabi_Bangladesh_vs_SouthAfrica,2021-11-02,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,UAE,,T20,6,Bangladesh,South Africa,South Africa,field,South Africa,wickets,6,K Rabada
+20211021_AlAmeratCricketGroundOmanCricketMinistryTurf1_Bangladesh_vs_PapuaNewGuinea,2021-10-21,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,Oman,,T20,6,Bangladesh,Papua New Guinea,Bangladesh,bat,Bangladesh,runs,84,Shakib Al Hasan
+20211019_AlAmeratCricketGroundOmanCricketMinistryTurf1_Bangladesh_vs_Oman,2021-10-19,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,Oman,,T20,6,Bangladesh,Oman,Bangladesh,bat,Bangladesh,runs,26,Shakib Al Hasan
+20211030_DubaiInternationalCricketStadium_Australia_vs_England,2021-10-30,Dubai International Cricket Stadium,Dubai,UAE,,T20,6,Australia,England,England,field,England,wickets,8,CJ Jordan
+20211029_SharjahCricketStadium_WestIndies_vs_Bangladesh,2021-10-29,Sharjah Cricket Stadium,Sharjah,UAE,,T20,6,West Indies,Bangladesh,Bangladesh,field,West Indies,runs,3,N Pooran
+20211024_SharjahCricketStadium_Bangladesh_vs_SriLanka,2021-10-24,Sharjah Cricket Stadium,Sharjah,UAE,,T20,6,Bangladesh,Sri Lanka,Sri Lanka,field,Sri Lanka,wickets,5,KIC Asalanka
+20211017_AlAmeratCricketGroundOmanCricketMinistryTurf1_PapuaNewGuinea_vs_Oman,2021-10-17,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,Oman,,T20,6,Papua New Guinea,Oman,Oman,field,Oman,wickets,10,Zeeshan Maqsood
+20211020_ZayedCricketStadiumAbuDhabi_Netherlands_vs_Namibia,2021-10-20,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,UAE,,T20,6,Netherlands,Namibia,Namibia,field,Namibia,wickets,6,D Wiese
+20211027_ZayedCricketStadiumAbuDhabi_Bangladesh_vs_England,2021-10-27,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,UAE,,T20,6,Bangladesh,England,Bangladesh,bat,England,wickets,8,JJ Roy
+20211102_ZayedCricketStadiumAbuDhabi_Pakistan_vs_Namibia,2021-11-02,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,UAE,,T20,6,Pakistan,Namibia,Pakistan,bat,Pakistan,runs,45,Mohammad Rizwan
+20211021_AlAmeratCricketGroundOmanCricketMinistryTurf1_Oman_vs_Scotland,2021-10-21,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,Oman,,T20,6,Oman,Scotland,Oman,bat,Scotland,wickets,8,JH Davey
+20211101_SharjahCricketStadium_England_vs_SriLanka,2021-11-01,Sharjah Cricket Stadium,Sharjah,UAE,,T20,6,England,Sri Lanka,Sri Lanka,field,England,runs,26,JC Buttler
+20211020_ZayedCricketStadiumAbuDhabi_SriLanka_vs_Ireland,2021-10-20,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,UAE,,T20,6,Sri Lanka,Ireland,Ireland,field,Sri Lanka,runs,70,PWH de Silva
+20211018_ZayedCricketStadiumAbuDhabi_Netherlands_vs_Ireland,2021-10-18,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,UAE,,T20,6,Netherlands,Ireland,Netherlands,bat,Ireland,wickets,7,C Campher
+20211105_DubaiInternationalCricketStadium_Scotland_vs_India,2021-11-05,Dubai International Cricket Stadium,Dubai,UAE,,T20,6,Scotland,India,India,field,India,wickets,8,RA Jadeja
+20211026_DubaiInternationalCricketStadium_WestIndies_vs_SouthAfrica,2021-10-26,Dubai International Cricket Stadium,Dubai,UAE,,T20,6,West Indies,South Africa,South Africa,field,South Africa,wickets,8,A Nortje
+20211018_ZayedCricketStadiumAbuDhabi_Namibia_vs_SriLanka,2021-10-18,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,UAE,,T20,6,Namibia,Sri Lanka,Sri Lanka,field,Sri Lanka,wickets,7,M Theekshana
+20211027_ZayedCricketStadiumAbuDhabi_Scotland_vs_Namibia,2021-10-27,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,UAE,,T20,6,Scotland,Namibia,Namibia,field,Namibia,wickets,4,R Trumpelmann
+20211023_ZayedCricketStadiumAbuDhabi_SouthAfrica_vs_Australia,2021-10-23,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,UAE,,T20,6,South Africa,Australia,Australia,field,Australia,wickets,5,JR Hazlewood
+20221022_SydneyCricketGround_NewZealand_vs_Australia,2022-10-22,Sydney Cricket Ground,Sydney,Australia,,T20,6,New Zealand,Australia,Australia,field,New Zealand,runs,89,DP Conway
+20221027_SydneyCricketGround_SouthAfrica_vs_Bangladesh,2022-10-27,Sydney Cricket Ground,Sydney,Australia,,T20,6,South Africa,Bangladesh,South Africa,bat,South Africa,runs,104,RR Rossouw
+20221106_AdelaideOval_Netherlands_vs_SouthAfrica,2022-11-06,Adelaide Oval,Adelaide,Australia,,T20,6,Netherlands,South Africa,South Africa,field,Netherlands,runs,13,CN Ackermann
+20221018_GMHBAStadiumSouthGeelongVictoria_Namibia_vs_Netherlands,2022-10-18,"GMHBA Stadium, South Geelong, Victoria",Geelong,Australia,,T20,6,Namibia,Netherlands,Namibia,bat,Netherlands,wickets,5,BFW de Leede
+20221110_AdelaideOval_India_vs_England,2022-11-10,Adelaide Oval,Adelaide,Australia,,T20,6,India,England,England,field,England,wickets,10,AD Hales
+20221023_BelleriveOvalHobart_Ireland_vs_SriLanka,2022-10-23,"Bellerive Oval, Hobart",Hobart,Australia,,T20,6,Ireland,Sri Lanka,Ireland,bat,Sri Lanka,wickets,9,BKG Mendis
+20221025_PerthStadium_SriLanka_vs_Australia,2022-10-25,Perth Stadium,Perth,Australia,,T20,6,Sri Lanka,Australia,Australia,field,Australia,wickets,7,MP Stoinis
+20221029_SydneyCricketGround_NewZealand_vs_SriLanka,2022-10-29,Sydney Cricket Ground,Sydney,Australia,,T20,6,New Zealand,Sri Lanka,New Zealand,bat,New Zealand,runs,65,GD Phillips
+20221102_AdelaideOval_Zimbabwe_vs_Netherlands,2022-11-02,Adelaide Oval,Adelaide,Australia,,T20,6,Zimbabwe,Netherlands,Zimbabwe,bat,Netherlands,wickets,5,MP O'Dowd
+20221030_PerthStadium_India_vs_SouthAfrica,2022-10-30,Perth Stadium,Perth,Australia,,T20,6,India,South Africa,India,bat,South Africa,wickets,5,L Ngidi
+20221030_BrisbaneCricketGroundWoolloongabbaBrisbane_Bangladesh_vs_Zimbabwe,2022-10-30,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,,T20,6,Bangladesh,Zimbabwe,Bangladesh,bat,Bangladesh,runs,3,Taskin Ahmed
+20221104_AdelaideOval_NewZealand_vs_Ireland,2022-11-04,Adelaide Oval,Adelaide,Australia,,T20,6,New Zealand,Ireland,Ireland,field,New Zealand,runs,35,KS Williamson
+20221031_BrisbaneCricketGroundWoolloongabbaBrisbane_Australia_vs_Ireland,2022-10-31,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,,T20,6,Australia,Ireland,Ireland,field,Australia,runs,42,AJ Finch
+20221106_MelbourneCricketGround_India_vs_Zimbabwe,2022-11-06,Melbourne Cricket Ground,Melbourne,Australia,,T20,6,India,Zimbabwe,India,bat,India,runs,71,SA Yadav
+20221102_AdelaideOval_India_vs_Bangladesh,2022-11-02,Adelaide Oval,Adelaide,Australia,,T20,6,India,Bangladesh,Bangladesh,field,India,runs,5,V Kohli
+20221020_GMHBAStadiumSouthGeelongVictoria_SriLanka_vs_Netherlands,2022-10-20,"GMHBA Stadium, South Geelong, Victoria",Geelong,Australia,,T20,6,Sri Lanka,Netherlands,Sri Lanka,bat,Sri Lanka,runs,16,BKG Mendis
+20221017_BelleriveOvalHobart_Scotland_vs_WestIndies,2022-10-17,"Bellerive Oval, Hobart",Hobart,Australia,,T20,6,Scotland,West Indies,West Indies,field,Scotland,runs,42,HG Munsey
+20221027_SydneyCricketGround_India_vs_Netherlands,2022-10-27,Sydney Cricket Ground,Sydney,Australia,,T20,6,India,Netherlands,India,bat,India,runs,56,SA Yadav
+20221021_BelleriveOvalHobart_WestIndies_vs_Ireland,2022-10-21,"Bellerive Oval, Hobart",Hobart,Australia,,T20,6,West Indies,Ireland,West Indies,bat,Ireland,wickets,9,GJ Delany
+20221016_GMHBAStadiumSouthGeelongVictoria_Namibia_vs_SriLanka,2022-10-16,"GMHBA Stadium, South Geelong, Victoria",Geelong,Australia,,T20,6,Namibia,Sri Lanka,Sri Lanka,field,Namibia,runs,55,JN Frylinck
+20221101_BrisbaneCricketGroundWoolloongabbaBrisbane_England_vs_NewZealand,2022-11-01,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,,T20,6,England,New Zealand,England,bat,England,runs,20,JC Buttler
+20221105_SydneyCricketGround_SriLanka_vs_England,2022-11-05,Sydney Cricket Ground,Sydney,Australia,,T20,6,Sri Lanka,England,Sri Lanka,bat,England,wickets,4,AU Rashid
+20221019_BelleriveOvalHobart_Scotland_vs_Ireland,2022-10-19,"Bellerive Oval, Hobart",Hobart,Australia,,T20,6,Scotland,Ireland,Scotland,bat,Ireland,wickets,6,C Campher
+20221024_BelleriveOvalHobart_Bangladesh_vs_Netherlands,2022-10-24,"Bellerive Oval, Hobart",Hobart,Australia,,T20,6,Bangladesh,Netherlands,Netherlands,field,Bangladesh,runs,9,Taskin Ahmed
+20221019_BelleriveOvalHobart_WestIndies_vs_Zimbabwe,2022-10-19,"Bellerive Oval, Hobart",Hobart,Australia,,T20,6,West Indies,Zimbabwe,West Indies,bat,West Indies,runs,31,AS Joseph
+20221021_BelleriveOvalHobart_Scotland_vs_Zimbabwe,2022-10-21,"Bellerive Oval, Hobart",Hobart,Australia,,T20,6,Scotland,Zimbabwe,Scotland,bat,Zimbabwe,wickets,5,Sikandar Raza
+20221017_BelleriveOvalHobart_Zimbabwe_vs_Ireland,2022-10-17,"Bellerive Oval, Hobart",Hobart,Australia,,T20,6,Zimbabwe,Ireland,Ireland,field,Zimbabwe,runs,31,Sikandar Raza
+20221016_GMHBAStadiumSouthGeelongVictoria_UnitedArabEmirates_vs_Netherlands,2022-10-16,"GMHBA Stadium, South Geelong, Victoria",Geelong,Australia,,T20,6,United Arab Emirates,Netherlands,United Arab Emirates,bat,Netherlands,wickets,3,BFW de Leede
+20211024_DubaiInternationalCricketStadium_India_vs_Pakistan,2021-10-24,Dubai International Cricket Stadium,Dubai,UAE,,T20,6,India,Pakistan,Pakistan,field,Pakistan,wickets,10,Shaheen Shah Afridi
+20221109_SydneyCricketGround_NewZealand_vs_Pakistan,2022-11-09,Sydney Cricket Ground,Sydney,Australia,,T20,6,New Zealand,Pakistan,New Zealand,bat,Pakistan,wickets,7,Mohammad Rizwan
+20221018_GMHBAStadiumSouthGeelongVictoria_SriLanka_vs_UnitedArabEmirates,2022-10-18,"GMHBA Stadium, South Geelong, Victoria",Geelong,Australia,,T20,6,Sri Lanka,United Arab Emirates,United Arab Emirates,field,Sri Lanka,runs,79,P Nissanka
+20221023_MelbourneCricketGround_Pakistan_vs_India,2022-10-23,Melbourne Cricket Ground,Melbourne,Australia,,T20,6,Pakistan,India,India,field,India,wickets,4,V Kohli
+20221103_SydneyCricketGround_Pakistan_vs_SouthAfrica,2022-11-03,Sydney Cricket Ground,Sydney,Australia,,T20,6,Pakistan,South Africa,Pakistan,bat,Pakistan,runs,33,Shadab Khan
+20221106_AdelaideOval_Bangladesh_vs_Pakistan,2022-11-06,Adelaide Oval,Adelaide,Australia,,T20,6,Bangladesh,Pakistan,Bangladesh,bat,Pakistan,wickets,5,Shaheen Shah Afridi
+20221020_GMHBAStadiumSouthGeelongVictoria_UnitedArabEmirates_vs_Namibia,2022-10-20,"GMHBA Stadium, South Geelong, Victoria",Geelong,Australia,,T20,6,United Arab Emirates,Namibia,United Arab Emirates,bat,United Arab Emirates,runs,7,Waseem Muhammad
+20221030_PerthStadium_Netherlands_vs_Pakistan,2022-10-30,Perth Stadium,Perth,Australia,,T20,6,Netherlands,Pakistan,Netherlands,bat,Pakistan,wickets,6,Shadab Khan
+20221027_PerthStadium_Zimbabwe_vs_Pakistan,2022-10-27,Perth Stadium,Perth,Australia,,T20,6,Zimbabwe,Pakistan,Zimbabwe,bat,Zimbabwe,runs,1,Sikandar Raza
+20221113_MelbourneCricketGround_Pakistan_vs_England,2022-11-13,Melbourne Cricket Ground,Melbourne,Australia,,T20,6,Pakistan,England,England,field,England,wickets,5,SM Curran
+20070918_NewWanderersStadium_Bangladesh_vs_SriLanka,2007-09-18,New Wanderers Stadium,Johannesburg,South Africa,,T20,6,Bangladesh,Sri Lanka,Bangladesh,field,Sri Lanka,runs,64,CRD Fernando
+20070915_Newlands_SouthAfrica_vs_Bangladesh,2007-09-15,Newlands,Cape Town,South Africa,,T20,6,South Africa,Bangladesh,South Africa,field,South Africa,wickets,7,M Morkel
+20070914_NewWanderersStadium_Kenya_vs_SriLanka,2007-09-14,New Wanderers Stadium,Johannesburg,South Africa,,T20,6,Kenya,Sri Lanka,Kenya,field,Sri Lanka,runs,172,ST Jayasuriya
+20070919_Kingsmead_SouthAfrica_vs_NewZealand,2007-09-19,Kingsmead,Durban,South Africa,,T20,6,South Africa,New Zealand,South Africa,field,South Africa,wickets,6,JM Kemp
+20070918_Kingsmead_England_vs_NewZealand,2007-09-18,Kingsmead,Durban,South Africa,,T20,6,England,New Zealand,England,field,New Zealand,runs,5,CD McMillan
+20070912_Newlands_Australia_vs_Zimbabwe,2007-09-12,Newlands,Cape Town,South Africa,,T20,6,Australia,Zimbabwe,Australia,bat,Zimbabwe,wickets,5,BRM Taylor
+20070914_Newlands_Australia_vs_England,2007-09-14,Newlands,Cape Town,South Africa,,T20,6,Australia,England,England,bat,Australia,wickets,8,NW Bracken
+20070913_NewWanderersStadium_Bangladesh_vs_WestIndies,2007-09-13,New Wanderers Stadium,Johannesburg,South Africa,,T20,6,Bangladesh,West Indies,Bangladesh,field,Bangladesh,wickets,6,Mohammad Ashraful
+20070920_Kingsmead_SouthAfrica_vs_India,2007-09-20,Kingsmead,Durban,South Africa,,T20,6,South Africa,India,India,bat,India,runs,37,RG Sharma
+20070922_Newlands_NewZealand_vs_Pakistan,2007-09-22,Newlands,Cape Town,South Africa,,T20,6,New Zealand,Pakistan,New Zealand,bat,Pakistan,wickets,6,Umar Gul
+20070920_Newlands_Bangladesh_vs_Pakistan,2007-09-20,Newlands,Cape Town,South Africa,,T20,6,Bangladesh,Pakistan,Pakistan,field,Pakistan,wickets,4,Junaid Siddique
+20070915_NewWanderersStadium_NewZealand_vs_SriLanka,2007-09-15,New Wanderers Stadium,Johannesburg,South Africa,,T20,6,New Zealand,Sri Lanka,New Zealand,bat,Sri Lanka,wickets,7,ST Jayasuriya
+20070916_NewWanderersStadium_India_vs_NewZealand,2007-09-16,New Wanderers Stadium,Johannesburg,South Africa,,T20,6,India,New Zealand,India,field,New Zealand,runs,10,DL Vettori
+20070916_Newlands_SouthAfrica_vs_England,2007-09-16,Newlands,Cape Town,South Africa,,T20,6,South Africa,England,England,field,South Africa,runs,19,JA Morkel
+20070924_NewWanderersStadium_India_vs_Pakistan,2007-09-24,New Wanderers Stadium,Johannesburg,South Africa,,T20,6,India,Pakistan,India,bat,India,runs,5,IK Pathan
+20070917_NewWanderersStadium_Pakistan_vs_SriLanka,2007-09-17,New Wanderers Stadium,Johannesburg,South Africa,,T20,6,Pakistan,Sri Lanka,Sri Lanka,field,Pakistan,runs,33,Younis Khan
+20070918_NewWanderersStadium_Australia_vs_Pakistan,2007-09-18,New Wanderers Stadium,Johannesburg,South Africa,,T20,6,Australia,Pakistan,Pakistan,field,Pakistan,wickets,6,Misbah-ul-Haq
+20070912_Kingsmead_Pakistan_vs_Scotland,2007-09-12,Kingsmead,Durban,South Africa,,T20,6,Pakistan,Scotland,Scotland,field,Pakistan,runs,51,Shahid Afridi
+20070916_Newlands_Australia_vs_Bangladesh,2007-09-16,Newlands,Cape Town,South Africa,,T20,6,Australia,Bangladesh,Australia,field,Australia,wickets,9,B Lee
+20070912_Kingsmead_Kenya_vs_NewZealand,2007-09-12,Kingsmead,Durban,South Africa,,T20,6,Kenya,New Zealand,New Zealand,field,New Zealand,wickets,9,MR Gillespie
+20070922_Kingsmead_Australia_vs_India,2007-09-22,Kingsmead,Durban,South Africa,,T20,6,Australia,India,India,bat,India,runs,15,Yuvraj Singh
+20070913_Newlands_England_vs_Zimbabwe,2007-09-13,Newlands,Cape Town,South Africa,,T20,6,England,Zimbabwe,England,bat,England,runs,50,KP Pietersen
+20070911_NewWanderersStadium_SouthAfrica_vs_WestIndies,2007-09-11,New Wanderers Stadium,Johannesburg,South Africa,,T20,6,South Africa,West Indies,South Africa,field,South Africa,wickets,8,CH Gayle
+20070919_Kingsmead_England_vs_India,2007-09-19,Kingsmead,Durban,South Africa,,T20,6,England,India,India,bat,India,runs,18,Yuvraj Singh
+20070920_Newlands_Australia_vs_SriLanka,2007-09-20,Newlands,Cape Town,South Africa,,T20,6,Australia,Sri Lanka,Australia,field,Australia,wickets,10,SR Clark
+20090605_Lords_England_vs_Netherlands,2009-06-05,Lord's,London,England,,T20,6,England,Netherlands,Netherlands,field,Netherlands,wickets,4,TN de Grooth
+20090609_Lords_Netherlands_vs_Pakistan,2009-06-09,Lord's,London,England,,T20,6,Netherlands,Pakistan,Pakistan,bat,Pakistan,runs,82,Kamran Akmal
+20090608_TrentBridge_Bangladesh_vs_Ireland,2009-06-08,Trent Bridge,Nottingham,England,,T20,6,Bangladesh,Ireland,Ireland,field,Ireland,wickets,6,NJ O'Brien
+20090616_TrentBridge_NewZealand_vs_SriLanka,2009-06-16,Trent Bridge,Nottingham,England,,T20,6,New Zealand,Sri Lanka,Sri Lanka,bat,Sri Lanka,runs,48,BAW Mendis
+20090615_KenningtonOval_Ireland_vs_Pakistan,2009-06-15,Kennington Oval,London,England,,T20,6,Ireland,Pakistan,Pakistan,bat,Pakistan,runs,39,Kamran Akmal
+20090606_TrentBridge_Bangladesh_vs_India,2009-06-06,Trent Bridge,Nottingham,England,,T20,6,Bangladesh,India,India,bat,India,runs,25,PP Ojha
+20090613_KenningtonOval_SouthAfrica_vs_WestIndies,2009-06-13,Kennington Oval,London,England,,T20,6,South Africa,West Indies,West Indies,field,South Africa,runs,20,WD Parnell
+20090618_TrentBridge_Pakistan_vs_SouthAfrica,2009-06-18,Trent Bridge,Nottingham,England,,T20,6,Pakistan,South Africa,Pakistan,bat,Pakistan,runs,7,Shahid Afridi
+20090616_TrentBridge_India_vs_SouthAfrica,2009-06-16,Trent Bridge,Nottingham,England,,T20,6,India,South Africa,South Africa,bat,South Africa,runs,12,AB de Villiers
+20090610_TrentBridge_India_vs_Ireland,2009-06-10,Trent Bridge,Nottingham,England,,T20,6,India,Ireland,India,field,India,wickets,8,Z Khan
+20090614_Lords_Ireland_vs_SriLanka,2009-06-14,Lord's,London,England,,T20,6,Ireland,Sri Lanka,Sri Lanka,bat,Sri Lanka,runs,9,DPMD Jayawardene
+20090615_KenningtonOval_England_vs_WestIndies,2009-06-15,Kennington Oval,London,England,,T20,6,England,West Indies,England,bat,West Indies,wickets,5,RR Sarwan
+20090606_KenningtonOval_Australia_vs_WestIndies,2009-06-06,Kennington Oval,London,England,,T20,6,Australia,West Indies,Australia,bat,West Indies,wickets,7,CH Gayle
+20090614_Lords_England_vs_India,2009-06-14,Lord's,London,England,,T20,6,England,India,India,field,England,runs,3,RJ Sidebottom
+20090613_KenningtonOval_NewZealand_vs_Pakistan,2009-06-13,Kennington Oval,London,England,,T20,6,New Zealand,Pakistan,New Zealand,bat,Pakistan,wickets,6,Umar Gul
+20090609_Lords_NewZealand_vs_SouthAfrica,2009-06-09,Lord's,London,England,,T20,6,New Zealand,South Africa,New Zealand,field,South Africa,runs,1,RE van der Merwe
+20090619_KenningtonOval_SriLanka_vs_WestIndies,2009-06-19,Kennington Oval,London,England,,T20,6,Sri Lanka,West Indies,West Indies,field,Sri Lanka,runs,57,TM Dilshan
+20090612_Lords_India_vs_WestIndies,2009-06-12,Lord's,London,England,,T20,6,India,West Indies,India,bat,West Indies,wickets,7,DJ Bravo
+20090611_TrentBridge_Ireland_vs_NewZealand,2009-06-11,Trent Bridge,Nottingham,England,,T20,6,Ireland,New Zealand,Ireland,field,New Zealand,runs,83,AJ Redmond
+20090611_TrentBridge_England_vs_SouthAfrica,2009-06-11,Trent Bridge,Nottingham,England,,T20,6,England,South Africa,England,bat,South Africa,wickets,7,JH Kallis
+20090621_Lords_Pakistan_vs_SriLanka,2009-06-21,Lord's,London,England,,T20,6,Pakistan,Sri Lanka,Sri Lanka,bat,Pakistan,wickets,8,Shahid Afridi
+20090607_KenningtonOval_England_vs_Pakistan,2009-06-07,Kennington Oval,London,England,,T20,6,England,Pakistan,Pakistan,field,England,runs,48,LJ Wright
+20090608_TrentBridge_Australia_vs_SriLanka,2009-06-08,Trent Bridge,Nottingham,England,,T20,6,Australia,Sri Lanka,Sri Lanka,field,Sri Lanka,wickets,6,KC Sangakkara
+20090607_KenningtonOval_Scotland_vs_SouthAfrica,2009-06-07,Kennington Oval,London,England,,T20,6,Scotland,South Africa,Scotland,field,South Africa,runs,130,AB de Villiers
+20100514_BeausejourStadiumGrosIslet_Australia_vs_Pakistan,2010-05-14,"Beausejour Stadium, Gros Islet",St Lucia,West Indies,,T20,6,Australia,Pakistan,Australia,field,Australia,wickets,3,MEK Hussey
+20100516_KensingtonOvalBridgetown_Australia_vs_England,2010-05-16,"Kensington Oval, Bridgetown",Barbados,West Indies,,T20,6,Australia,England,England,field,England,wickets,7,C Kieswetter
+20100508_KensingtonOvalBridgetown_England_vs_SouthAfrica,2010-05-08,"Kensington Oval, Bridgetown",Barbados,West Indies,,T20,6,England,South Africa,England,bat,England,runs,39,KP Pietersen
+20100511_BeausejourStadiumGrosIslet_India_vs_SriLanka,2010-05-11,"Beausejour Stadium, Gros Islet",St Lucia,West Indies,,T20,6,India,Sri Lanka,India,bat,Sri Lanka,wickets,5,AD Mathews
+20100506_KensingtonOvalBridgetown_NewZealand_vs_SouthAfrica,2010-05-06,"Kensington Oval, Bridgetown",Barbados,West Indies,,T20,6,New Zealand,South Africa,South Africa,bat,South Africa,runs,13,JA Morkel
+20100430_ProvidenceStadium_NewZealand_vs_SriLanka,2010-04-30,Providence Stadium,Guyana,Guyana,,T20,6,New Zealand,Sri Lanka,Sri Lanka,bat,New Zealand,wickets,2,NL McCullum
+20100502_BeausejourStadiumGrosIslet_Australia_vs_Pakistan,2010-05-02,"Beausejour Stadium, Gros Islet",St Lucia,West Indies,,T20,6,Australia,Pakistan,Australia,bat,Australia,runs,34,SR Watson
+20100508_KensingtonOvalBridgetown_NewZealand_vs_Pakistan,2010-05-08,"Kensington Oval, Bridgetown",Barbados,West Indies,,T20,6,New Zealand,Pakistan,Pakistan,field,New Zealand,runs,1,IG Butler
+20100510_BeausejourStadiumGrosIslet_Pakistan_vs_SouthAfrica,2010-05-10,"Beausejour Stadium, Gros Islet",St Lucia,West Indies,,T20,6,Pakistan,South Africa,Pakistan,bat,Pakistan,runs,11,Umar Akmal
+20100511_BeausejourStadiumGrosIslet_WestIndies_vs_Australia,2010-05-11,"Beausejour Stadium, Gros Islet",St Lucia,West Indies,,T20,6,West Indies,Australia,West Indies,bat,Australia,wickets,6,SPD Smith
+20100502_BeausejourStadiumGrosIslet_India_vs_SouthAfrica,2010-05-02,"Beausejour Stadium, Gros Islet",St Lucia,West Indies,,T20,6,India,South Africa,South Africa,field,India,runs,14,SK Raina
+20100509_KensingtonOvalBridgetown_Australia_vs_SriLanka,2010-05-09,"Kensington Oval, Bridgetown",Barbados,West Indies,,T20,6,Australia,Sri Lanka,Australia,bat,Australia,runs,81,CL White
+20100501_BeausejourStadiumGrosIslet_Bangladesh_vs_Pakistan,2010-05-01,"Beausejour Stadium, Gros Islet",St Lucia,West Indies,,T20,6,Bangladesh,Pakistan,Pakistan,bat,Pakistan,runs,21,Salman Butt
+20100507_KensingtonOvalBridgetown_Australia_vs_India,2010-05-07,"Kensington Oval, Bridgetown",Barbados,West Indies,,T20,6,Australia,India,India,field,Australia,runs,49,DA Warner
+20100505_KensingtonOvalBridgetown_Australia_vs_Bangladesh,2010-05-05,"Kensington Oval, Bridgetown",Barbados,West Indies,,T20,6,Australia,Bangladesh,Australia,bat,Australia,runs,27,MEK Hussey
+20100506_KensingtonOvalBridgetown_England_vs_Pakistan,2010-05-06,"Kensington Oval, Bridgetown",Barbados,West Indies,,T20,6,England,Pakistan,England,field,England,wickets,6,KP Pietersen
+20100430_ProvidenceStadium_WestIndies_vs_Ireland,2010-04-30,Providence Stadium,Guyana,Guyana,,T20,6,West Indies,Ireland,West Indies,bat,West Indies,runs,70,DJG Sammy
+20100513_BeausejourStadiumGrosIslet_England_vs_SriLanka,2010-05-13,"Beausejour Stadium, Gros Islet",St Lucia,West Indies,,T20,6,England,Sri Lanka,Sri Lanka,bat,England,wickets,7,SCJ Broad
+20100507_KensingtonOvalBridgetown_WestIndies_vs_SriLanka,2010-05-07,"Kensington Oval, Bridgetown",Barbados,West Indies,,T20,6,West Indies,Sri Lanka,Sri Lanka,bat,Sri Lanka,runs,57,DPMD Jayawardene
+20100510_BeausejourStadiumGrosIslet_England_vs_NewZealand,2010-05-10,"Beausejour Stadium, Gros Islet",St Lucia,West Indies,,T20,6,England,New Zealand,New Zealand,bat,England,wickets,3,TT Bresnan
+20120923_RPremadasaStadium_England_vs_India,2012-09-23,R Premadasa Stadium,Colombo,Sri Lanka,,T20,6,England,India,England,field,India,runs,90,Harbhajan Singh
+20120929_PallekeleInternationalCricketStadium_SriLanka_vs_WestIndies,2012-09-29,Pallekele International Cricket Stadium,,Sri Lanka,,T20,6,Sri Lanka,West Indies,West Indies,bat,Sri Lanka,wickets,9,DPMD Jayawardene
+20120930_RPremadasaStadium_India_vs_Pakistan,2012-09-30,R Premadasa Stadium,Colombo,Sri Lanka,,T20,6,India,Pakistan,Pakistan,bat,India,wickets,8,V Kohli
+20121007_RPremadasaStadium_SriLanka_vs_WestIndies,2012-10-07,R Premadasa Stadium,Colombo,Sri Lanka,,T20,6,Sri Lanka,West Indies,West Indies,bat,West Indies,runs,36,MN Samuels
+20120925_PallekeleInternationalCricketStadium_Bangladesh_vs_Pakistan,2012-09-25,Pallekele International Cricket Stadium,,Sri Lanka,,T20,6,Bangladesh,Pakistan,Bangladesh,bat,Pakistan,wickets,8,Imran Nazir
+20120927_PallekeleInternationalCricketStadium_England_vs_WestIndies,2012-09-27,Pallekele International Cricket Stadium,,Sri Lanka,,T20,6,England,West Indies,West Indies,bat,West Indies,runs,15,J Charles
+20121001_PallekeleInternationalCricketStadium_SriLanka_vs_England,2012-10-01,Pallekele International Cricket Stadium,,Sri Lanka,,T20,6,Sri Lanka,England,England,field,Sri Lanka,runs,19,SL Malinga
+20120920_MahindaRajapaksaInternationalCricketStadiumSooriyawewa_SouthAfrica_vs_Zimbabwe,2012-09-20,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Hambantota,Sri Lanka,,T20,6,South Africa,Zimbabwe,South Africa,field,South Africa,wickets,10,JH Kallis
+20120930_RPremadasaStadium_Australia_vs_SouthAfrica,2012-09-30,R Premadasa Stadium,Colombo,Sri Lanka,,T20,6,Australia,South Africa,Australia,field,Australia,wickets,8,SR Watson
+20120921_PallekeleInternationalCricketStadium_Bangladesh_vs_NewZealand,2012-09-21,Pallekele International Cricket Stadium,,Sri Lanka,,T20,6,Bangladesh,New Zealand,Bangladesh,field,New Zealand,runs,59,BB McCullum
+20120923_PallekeleInternationalCricketStadium_NewZealand_vs_Pakistan,2012-09-23,Pallekele International Cricket Stadium,,Sri Lanka,,T20,6,New Zealand,Pakistan,Pakistan,bat,Pakistan,runs,13,Nasir Jamshed
+20120928_RPremadasaStadium_Pakistan_vs_SouthAfrica,2012-09-28,R Premadasa Stadium,Colombo,Sri Lanka,,T20,6,Pakistan,South Africa,South Africa,bat,Pakistan,wickets,2,Umar Gul
+20121002_RPremadasaStadium_India_vs_SouthAfrica,2012-10-02,R Premadasa Stadium,Colombo,Sri Lanka,,T20,6,India,South Africa,South Africa,field,India,runs,1,Yuvraj Singh
+20121002_RPremadasaStadium_Australia_vs_Pakistan,2012-10-02,R Premadasa Stadium,Colombo,Sri Lanka,,T20,6,Australia,Pakistan,Australia,field,Pakistan,runs,32,Raza Hasan
+20121004_RPremadasaStadium_SriLanka_vs_Pakistan,2012-10-04,R Premadasa Stadium,Colombo,Sri Lanka,,T20,6,Sri Lanka,Pakistan,Sri Lanka,bat,Sri Lanka,runs,16,DPMD Jayawardene
+20120918_MahindaRajapaksaInternationalCricketStadiumSooriyawewa_SriLanka_vs_Zimbabwe,2012-09-18,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Hambantota,Sri Lanka,,T20,6,Sri Lanka,Zimbabwe,Zimbabwe,field,Sri Lanka,runs,82,BAW Mendis
+20121005_RPremadasaStadium_Australia_vs_WestIndies,2012-10-05,R Premadasa Stadium,Colombo,Sri Lanka,,T20,6,Australia,West Indies,West Indies,bat,West Indies,runs,74,CH Gayle
+20120928_RPremadasaStadium_Australia_vs_India,2012-09-28,R Premadasa Stadium,Colombo,Sri Lanka,,T20,6,Australia,India,India,bat,Australia,wickets,9,SR Watson
+20120929_PallekeleInternationalCricketStadium_England_vs_NewZealand,2012-09-29,Pallekele International Cricket Stadium,,Sri Lanka,,T20,6,England,New Zealand,New Zealand,bat,England,wickets,6,LJ Wright
+20140323_ShereBanglaNationalStadium_Australia_vs_Pakistan,2014-03-23,Shere Bangla National Stadium,Mirpur,Bangladesh,,T20,6,Australia,Pakistan,Australia,field,Pakistan,runs,16,Umar Akmal
+20140321_ShereBanglaNationalStadium_India_vs_Pakistan,2014-03-21,Shere Bangla National Stadium,Mirpur,Bangladesh,,T20,6,India,Pakistan,India,field,India,wickets,7,A Mishra
+20140316_ZahurAhmedChowdhuryStadium_HongKong_vs_Nepal,2014-03-16,Zahur Ahmed Chowdhury Stadium,Chittagong,Bangladesh,,T20,6,Hong Kong,Nepal,Hong Kong,field,Nepal,runs,80,SP Gauchan
+20140324_ZahurAhmedChowdhuryStadium_NewZealand_vs_SouthAfrica,2014-03-24,Zahur Ahmed Chowdhury Stadium,Chittagong,Bangladesh,,T20,6,New Zealand,South Africa,New Zealand,field,South Africa,runs,2,JP Duminy
+20140321_SylhetStadium_Ireland_vs_Netherlands,2014-03-21,Sylhet Stadium,,Bangladesh,,T20,6,Ireland,Netherlands,Netherlands,field,Netherlands,wickets,6,SJ Myburgh
+20140319_SylhetStadium_Netherlands_vs_Zimbabwe,2014-03-19,Sylhet Stadium,,Bangladesh,,T20,6,Netherlands,Zimbabwe,Netherlands,bat,Zimbabwe,wickets,5,BRM Taylor
+20140317_SylhetStadium_Netherlands_vs_UnitedArabEmirates,2014-03-17,Sylhet Stadium,,Bangladesh,,T20,6,Netherlands,United Arab Emirates,United Arab Emirates,bat,Netherlands,wickets,6,TLW Cooper
+20140325_ShereBanglaNationalStadium_Bangladesh_vs_WestIndies,2014-03-25,Shere Bangla National Stadium,Mirpur,Bangladesh,,T20,6,Bangladesh,West Indies,Bangladesh,field,West Indies,runs,73,DR Smith
+20140322_ZahurAhmedChowdhuryStadium_SouthAfrica_vs_SriLanka,2014-03-22,Zahur Ahmed Chowdhury Stadium,Chittagong,Bangladesh,,T20,6,South Africa,Sri Lanka,Sri Lanka,bat,Sri Lanka,runs,5,MDKJ Perera
+20140322_ZahurAhmedChowdhuryStadium_England_vs_NewZealand,2014-03-22,Zahur Ahmed Chowdhury Stadium,Chattogram,Bangladesh,,T20,6,England,New Zealand,New Zealand,field,New Zealand,runs,9,CJ Anderson
+20140327_ZahurAhmedChowdhuryStadium_Netherlands_vs_SouthAfrica,2014-03-27,Zahur Ahmed Chowdhury Stadium,Chittagong,Bangladesh,,T20,6,Netherlands,South Africa,Netherlands,field,South Africa,runs,6,Imran Tahir
+20140321_SylhetStadium_UnitedArabEmirates_vs_Zimbabwe,2014-03-21,Sylhet Stadium,,Bangladesh,,T20,6,United Arab Emirates,Zimbabwe,Zimbabwe,field,Zimbabwe,wickets,5,E Chigumbura
+20140317_SylhetStadium_Ireland_vs_Zimbabwe,2014-03-17,Sylhet Stadium,,Bangladesh,,T20,6,Ireland,Zimbabwe,Ireland,field,Ireland,wickets,3,PR Stirling
+20140320_ZahurAhmedChowdhuryStadium_Bangladesh_vs_HongKong,2014-03-20,Zahur Ahmed Chowdhury Stadium,Chittagong,Bangladesh,,T20,6,Bangladesh,Hong Kong,Hong Kong,field,Hong Kong,wickets,2,Nadeem Ahmed
+20140319_SylhetStadium_Ireland_vs_UnitedArabEmirates,2014-03-19,Sylhet Stadium,,Bangladesh,,T20,6,Ireland,United Arab Emirates,Ireland,field,Ireland,runs,21,EC Joyce
+20140318_ZahurAhmedChowdhuryStadium_Bangladesh_vs_Nepal,2014-03-18,Zahur Ahmed Chowdhury Stadium,Chittagong,Bangladesh,,T20,6,Bangladesh,Nepal,Bangladesh,field,Bangladesh,wickets,8,Al-Amin Hossain
+20140323_ShereBanglaNationalStadium_India_vs_WestIndies,2014-03-23,Shere Bangla National Stadium,Mirpur,Bangladesh,,T20,6,India,West Indies,India,field,India,wickets,7,A Mishra
+20140401_ShereBanglaNationalStadium_Bangladesh_vs_Australia,2014-04-01,Shere Bangla National Stadium,Mirpur,Bangladesh,,T20,6,Bangladesh,Australia,Bangladesh,bat,Australia,wickets,7,AJ Finch
+20140328_ShereBanglaNationalStadium_Australia_vs_WestIndies,2014-03-28,Shere Bangla National Stadium,Mirpur,Bangladesh,,T20,6,Australia,West Indies,Australia,bat,West Indies,wickets,6,DJG Sammy
+20140329_ZahurAhmedChowdhuryStadium_Netherlands_vs_NewZealand,2014-03-29,Zahur Ahmed Chowdhury Stadium,Chittagong,Bangladesh,,T20,6,Netherlands,New Zealand,New Zealand,field,New Zealand,wickets,6,BB McCullum
+20140327_ZahurAhmedChowdhuryStadium_England_vs_SriLanka,2014-03-27,Zahur Ahmed Chowdhury Stadium,Chittagong,Bangladesh,,T20,6,England,Sri Lanka,England,field,England,wickets,6,AD Hales
+20140331_ZahurAhmedChowdhuryStadium_NewZealand_vs_SriLanka,2014-03-31,Zahur Ahmed Chowdhury Stadium,Chittagong,Bangladesh,,T20,6,New Zealand,Sri Lanka,New Zealand,field,Sri Lanka,runs,59,HMRKB Herath
+20140329_ZahurAhmedChowdhuryStadium_England_vs_SouthAfrica,2014-03-29,Zahur Ahmed Chowdhury Stadium,Chittagong,Bangladesh,,T20,6,England,South Africa,England,field,South Africa,runs,3,AB de Villiers
+20140330_ShereBanglaNationalStadium_Bangladesh_vs_Pakistan,2014-03-30,Shere Bangla National Stadium,Mirpur,Bangladesh,,T20,6,Bangladesh,Pakistan,Pakistan,bat,Pakistan,runs,50,Ahmed Shehzad
+20140404_ShereBanglaNationalStadium_India_vs_SouthAfrica,2014-04-04,Shere Bangla National Stadium,Mirpur,Bangladesh,,T20,6,India,South Africa,South Africa,bat,India,wickets,6,V Kohli
+20140401_ShereBanglaNationalStadium_Pakistan_vs_WestIndies,2014-04-01,Shere Bangla National Stadium,Mirpur,Bangladesh,,T20,6,Pakistan,West Indies,West Indies,bat,West Indies,runs,84,DJ Bravo
+20140330_ShereBanglaNationalStadium_Australia_vs_India,2014-03-30,Shere Bangla National Stadium,Mirpur,Bangladesh,,T20,6,Australia,India,Australia,field,India,runs,73,R Ashwin
+20140328_ShereBanglaNationalStadium_Bangladesh_vs_India,2014-03-28,Shere Bangla National Stadium,Mirpur,Bangladesh,,T20,6,Bangladesh,India,India,field,India,wickets,8,R Ashwin
+20140331_ZahurAhmedChowdhuryStadium_England_vs_Netherlands,2014-03-31,Zahur Ahmed Chowdhury Stadium,Chittagong,Bangladesh,,T20,6,England,Netherlands,England,field,Netherlands,runs,45,Mudassar Bukhari
+20140406_ShereBanglaNationalStadium_India_vs_SriLanka,2014-04-06,Shere Bangla National Stadium,Mirpur,Bangladesh,,T20,6,India,Sri Lanka,Sri Lanka,field,Sri Lanka,wickets,6,KC Sangakkara
+20160322_PunjabCricketAssociationISBindraStadiumMohali_NewZealand_vs_Pakistan,2016-03-22,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,India,,T20,6,New Zealand,Pakistan,New Zealand,bat,New Zealand,runs,22,MJ Guptill
+20160325_PunjabCricketAssociationISBindraStadiumMohali_Australia_vs_Pakistan,2016-03-25,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,India,,T20,6,Australia,Pakistan,Australia,bat,Australia,runs,21,JP Faulkner
+20160312_VidarbhaCricketAssociationStadiumJamtha_HongKong_vs_Scotland,2016-03-12,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,India,,T20,6,Hong Kong,Scotland,Hong Kong,bat,Scotland,wickets,8,MW Machan
+20160325_VidarbhaCricketAssociationStadiumJamtha_SouthAfrica_vs_WestIndies,2016-03-25,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,India,,T20,6,South Africa,West Indies,West Indies,field,West Indies,wickets,3,MN Samuels
+20160309_HimachalPradeshCricketAssociationStadium_Ireland_vs_Oman,2016-03-09,Himachal Pradesh Cricket Association Stadium,Dharamsala,India,,T20,6,Ireland,Oman,Ireland,bat,Oman,wickets,2,Amir Ali
+20160315_VidarbhaCricketAssociationStadiumJamtha_India_vs_NewZealand,2016-03-15,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,India,,T20,6,India,New Zealand,New Zealand,bat,New Zealand,runs,47,MJ Santner
+20160403_EdenGardens_England_vs_WestIndies,2016-04-03,Eden Gardens,Kolkata,India,,T20,6,England,West Indies,West Indies,field,West Indies,wickets,4,MN Samuels
+20160326_EdenGardens_Bangladesh_vs_NewZealand,2016-03-26,Eden Gardens,Kolkata,India,,T20,6,Bangladesh,New Zealand,New Zealand,bat,New Zealand,runs,75,KS Williamson
+20160320_MChinnaswamyStadium_SriLanka_vs_WestIndies,2016-03-20,M Chinnaswamy Stadium,Bangalore,India,,T20,6,Sri Lanka,West Indies,West Indies,field,West Indies,wickets,7,ADS Fletcher
+20160309_HimachalPradeshCricketAssociationStadium_Bangladesh_vs_Netherlands,2016-03-09,Himachal Pradesh Cricket Association Stadium,Dharamsala,India,,T20,6,Bangladesh,Netherlands,Netherlands,field,Bangladesh,runs,8,Tamim Iqbal
+20160313_HimachalPradeshCricketAssociationStadium_Bangladesh_vs_Oman,2016-03-13,Himachal Pradesh Cricket Association Stadium,Dharamsala,India,,T20,6,Bangladesh,Oman,Oman,field,Bangladesh,runs,54,Tamim Iqbal
+20160328_FerozShahKotla_SouthAfrica_vs_SriLanka,2016-03-28,Feroz Shah Kotla,Delhi,India,,T20,6,South Africa,Sri Lanka,South Africa,field,South Africa,wickets,8,AM Phangiso
+20160326_FerozShahKotla_England_vs_SriLanka,2016-03-26,Feroz Shah Kotla,Delhi,India,,T20,6,England,Sri Lanka,Sri Lanka,field,England,runs,10,JC Buttler
+20160318_HimachalPradeshCricketAssociationStadium_Australia_vs_NewZealand,2016-03-18,Himachal Pradesh Cricket Association Stadium,Dharamsala,India,,T20,6,Australia,New Zealand,New Zealand,bat,New Zealand,runs,8,MJ McClenaghan
+20160319_EdenGardens_India_vs_Pakistan,2016-03-19,Eden Gardens,Kolkata,India,,T20,6,India,Pakistan,India,field,India,wickets,6,V Kohli
+20160309_Newlands_SouthAfrica_vs_Australia,2016-03-09,Newlands,Cape Town,South Africa,,T20,6,South Africa,Australia,South Africa,bat,Australia,wickets,6,HM Amla
+20160330_FerozShahKotla_England_vs_NewZealand,2016-03-30,Feroz Shah Kotla,Delhi,India,,T20,6,England,New Zealand,England,field,England,wickets,7,JJ Roy
+20160318_WankhedeStadium_England_vs_SouthAfrica,2016-03-18,Wankhede Stadium,Mumbai,India,,T20,6,England,South Africa,England,field,England,wickets,2,JE Root
+20160308_VidarbhaCricketAssociationStadiumJamtha_HongKong_vs_Zimbabwe,2016-03-08,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,India,,T20,6,Hong Kong,Zimbabwe,Hong Kong,field,Zimbabwe,runs,14,V Sibanda
+20160316_WankhedeStadium_England_vs_WestIndies,2016-03-16,Wankhede Stadium,Mumbai,India,,T20,6,England,West Indies,West Indies,field,West Indies,wickets,6,CH Gayle
+20160331_WankhedeStadium_India_vs_WestIndies,2016-03-31,Wankhede Stadium,Mumbai,India,,T20,6,India,West Indies,West Indies,field,West Indies,wickets,7,LMP Simmons
+20160327_PunjabCricketAssociationISBindraStadiumMohali_India_vs_Australia,2016-03-27,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,India,,T20,6,India,Australia,Australia,bat,India,wickets,6,V Kohli
+20160323_MChinnaswamyStadium_India_vs_Bangladesh,2016-03-23,M Chinnaswamy Stadium,Bangalore,India,,T20,6,India,Bangladesh,Bangladesh,field,India,runs,1,R Ashwin
+20160310_VidarbhaCricketAssociationStadiumJamtha_Scotland_vs_Zimbabwe,2016-03-10,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,India,,T20,6,Scotland,Zimbabwe,Zimbabwe,bat,Zimbabwe,runs,11,WP Masakadza
+20160316_EdenGardens_Bangladesh_vs_Pakistan,2016-03-16,Eden Gardens,Kolkata,India,,T20,6,Bangladesh,Pakistan,Pakistan,bat,Pakistan,runs,55,Shahid Afridi
+20160321_MChinnaswamyStadium_Australia_vs_Bangladesh,2016-03-21,M Chinnaswamy Stadium,Bangalore,India,,T20,6,Australia,Bangladesh,Australia,field,Australia,wickets,3,A Zampa
